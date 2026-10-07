@@ -1,0 +1,25 @@
+{
+  "name": "3dweb",
+  "version": "1.0.0",
+  "description": "",
+  "license": "ISC",
+  "author": "danny",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview --host 0.0.0.0"
+  },
+  "dependencies": {
+    "@zumer/snapdom": "^2.24.16",
+    "animejs": "^4.5.0",
+    "gsap": "^3.15.0",
+    "three": "^0.185.1",
+    "vanilla-disintegrate": "^1.5.0"
+  },
+  "devDependencies": {
+    "@types/three": "^0.185.4",
+    "vite": "^8.2.2"
+  },
+  "keywords": []
+}
